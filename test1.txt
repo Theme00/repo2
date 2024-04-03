@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 887A-91BE
+
+ Directory of C:\Users\Rogelio\Desktop\SWProjects
+
+04/03/2024  04:00 PM    <DIR>          .
+04/03/2024  03:58 PM    <DIR>          ..
+04/03/2024  04:00 PM                 0 testq.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  57,373,212,672 bytes free
